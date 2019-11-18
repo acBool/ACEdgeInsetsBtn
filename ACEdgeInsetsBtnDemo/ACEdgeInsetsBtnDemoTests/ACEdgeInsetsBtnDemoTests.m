@@ -2,8 +2,6 @@
 //  ACEdgeInsetsBtnDemoTests.m
 //  ACEdgeInsetsBtnDemoTests
 //
-//  Created by lonlife on 2018/12/25.
-//  Copyright © 2018 lonlife. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>

@@ -2,8 +2,6 @@
 //  ACEdgeInsetsBtn.h
 //  BtnEdgeInsetTest
 //
-//  Created by lonlife on 2018/12/18.
-//  Copyright © 2018 lonlife. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

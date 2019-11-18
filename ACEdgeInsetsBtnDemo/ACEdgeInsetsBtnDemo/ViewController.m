@@ -2,12 +2,10 @@
 //  ViewController.m
 //  ACEdgeInsetsBtnDemo
 //
-//  Created by lonlife on 2018/12/25.
-//  Copyright © 2018 lonlife. All rights reserved.
 //
 
 #import "ViewController.h"
-#import "ACEdgeInsetsBtn.h"
+#import "ACEdgeInsetsBtn/ACEdgeInsetsBtn.h"
 
 #define     DefaultFont     [UIFont systemFontOfSize:20.0f]
 #define     DefaultImage    [UIImage imageNamed:@"mail"]
